@@ -1,6 +1,7 @@
-
+[![wakatime](https://wakatime.com/badge/user/16d5af07-9be7-40d7-8532-dee7019bfaf9.svg)](https://wakatime.com/@16d5af07-9be7-40d7-8532-dee7019bfaf9)
+ 
  <div>
- [![wakatime](https://wakatime.com/badge/user/16d5af07-9be7-40d7-8532-dee7019bfaf9.svg)](https://wakatime.com/@16d5af07-9be7-40d7-8532-dee7019bfaf9)
+
   <a href="https://github.com/duart3x">
   <img height="180em" src="https://github-readme-stats-beta-orpin.vercel.app/api?username=duart3x&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=e81c1c&title_color=e81c1c&bg_color=000000&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-beta-orpin.vercel.app/api/top-langs/?username=duart3x&layout=compact&langs_count=7&theme=dark&icon_color=e81c1c&title_color=e81c1c&bg_color=000000&hide_border=true"/>
